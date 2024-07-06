@@ -31,3 +31,6 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 
 The winner of the election based on popular vote
+
+Below is a screenshot of the results:
+![alt text](image-1.png)
